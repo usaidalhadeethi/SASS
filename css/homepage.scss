@@ -1,0 +1,10 @@
+@use 'sass/helpers/variables';
+@use 'sass/helpers/mixins';
+@use 'sass/layout/grid';
+@use 'sass/components/buttons';
+@use 'sass/components/headings';
+
+@use 'sass/pages/_globalpage.scss';
+@use 'sass/layout/header';
+@use 'sass/pages/homepage';
+@use 'sass/layout/footer';
